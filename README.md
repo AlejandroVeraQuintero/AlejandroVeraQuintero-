@@ -3,19 +3,19 @@
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="350" />
 
 --- 
-<a href="https://github.com/AlejandroVeraQuintero" target="_blank" style="text-decoration: none;">
+<a href="https://github.com/AlejandroVeraQuintero" target="_blank" style="text-decoration: none; display: inline-block;">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="veraa567@gmail.com" target="_blank" style="text-decoration: none;">
+<a href="veraa567@gmail.com" target="_blank" style="text-decoration: none; display: inline-block;">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
-<a href="https://twitter.com/AlejandroV54888" target="_blank" style="text-decoration: none;">
+<a href="https://twitter.com/AlejandroV54888" target="_blank" style="text-decoration: none; display: inline-block;">
 <img src=https://img.shields.io/badge/TWITTER-%23000000.svg?style=for-the-badge&logo=X&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> 
-<a href="https://www.linkedin.com/in/alejandro-vera-quintero-3865b71b6/" target="_blank" style="text-decoration: none;" >
+<a href="https://www.linkedin.com/in/alejandro-vera-quintero-3865b71b6/" target="_blank" style="text-decoration: none; display: inline-block;">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/veraa24___/" target="_blank" style="text-decoration: none;">
+<a href="https://www.instagram.com/veraa24___/" target="_blank" style="text-decoration: none; display: inline-block;">
 <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
